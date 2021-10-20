@@ -1,0 +1,3 @@
+
+int skippelheto( int level );
+
